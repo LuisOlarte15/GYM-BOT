@@ -1,0 +1,7 @@
+# Secretos y archivos locales
+.env
+.venv/
+__pycache__/
+*.pyc
+BACKUPS/
+*.log

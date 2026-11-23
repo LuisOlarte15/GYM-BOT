@@ -1,0 +1,4 @@
+# GYM BOT V16 usa librerías estándar para Wompi.
+# Instala qrcode[pil] para el QR y openai si usarás el chatbot.
+qrcode[pil]>=8.0
+openai>=1.0.0
